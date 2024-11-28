@@ -7,7 +7,7 @@ An Aspiring Data Analyst
 In my previous role as a customer care representative at a major electric distribution company, I developed strong communication and problem-solving skills, driven by a passion for delivering exceptional service. I’m building a solid foundation in data analytics through practical projects and a recent Data Technician Bootcamp, where I’ve honed my data cleaning, visualization, and analysis skills using Excel, SQL, Python, Tableau, and Power BI. Looking ahead, I’m excited to apply my technical skills, curiosity, and collaborative mindset to support data-driven projects that drive impactful outcomes.
 
 * 🌍  I'm based in london
-* ✉️  You can contact me at [kathleenibrahim94@gmail.com](mailto:kathleenibrahim94@gmail.com)
+*  You can contact me at [kathleenibrahim94@gmail.com](mailto:kathleenibrahim94@gmail.com)
 
 <a href="https://www.github.com/https://github.com/kathleenibrahim?tab=repositories" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/https://github.com/kathleenibrahim?tab=repositories?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
